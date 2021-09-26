@@ -1,7 +1,3 @@
-// Exercise 05.04.01.txt
-// This program draws one of eight balls, using
-//  code similar to dealer2.cpp
-
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
